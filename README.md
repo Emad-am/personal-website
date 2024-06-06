@@ -1,3 +1,3 @@
-### This repo uses this amazing project
+## This repo uses this amazing project
 
-## https://github.com/Cveinnt/LiveTerm
+### https://github.com/Cveinnt/LiveTerm
