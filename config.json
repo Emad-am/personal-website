@@ -12,6 +12,10 @@
   "ps1_username": "you",
   "repo": "https://github.com/Emad-am",
   "resume_url": "https://drive.google.com/file/d/1o1uFe2YJunnBJZ1kmgd-fcZNH6-QKpkB/view?usp=sharing",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
   "colors": {
     "light": {
       "background": "#FBF1C9",
